@@ -10,8 +10,6 @@ Part of the Recommender Systems exam at Politecnico di Milano consists in a kagg
 
 Note that recommenders come from [this repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi).
 
----
-
 ## Requirements
 The `requirements.txt` file lists all the libraries that are necessary to run the scripts. **Install them** using:
 
