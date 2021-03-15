@@ -71,5 +71,5 @@ With our best submission we had the following results:
 - Ranked **3rd** on private leaderboard (score: **0.10796**)
 
 ## Team
-- Samuele Meta [[github page](https://github.com/SamueleMeta)] [[email](mailto:metasamuele@gmail.com)]
-- Stiven Metaj [[github page](https://github.com/StivenMetaj)] [[email](mailto:stivenmetaj@gmail.com)]
+- Samuele Meta [[Github](https://github.com/SamueleMeta)] [[Email](mailto:metasamuele@gmail.com)]
+- Stiven Metaj [[Github](https://github.com/StivenMetaj)] [[Email](mailto:stivenmetaj@gmail.com)]
